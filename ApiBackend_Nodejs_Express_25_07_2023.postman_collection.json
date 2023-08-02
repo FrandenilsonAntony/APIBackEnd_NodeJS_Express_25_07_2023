@@ -12,9 +12,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{API-URL}}/mensagens",
+					"raw": "{{API_URL}}/mensagens",
 					"host": [
-						"{{API-URL}}"
+						"{{API_URL}}"
 					],
 					"path": [
 						"mensagens"
@@ -29,9 +29,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{API-URL}}/mensagens/2",
+					"raw": "{{API_URL}}/mensagens/2",
 					"host": [
-						"{{API-URL}}"
+						"{{API_URL}}"
 					],
 					"path": [
 						"mensagens",
@@ -56,9 +56,9 @@
 					}
 				},
 				"url": {
-					"raw": "{{API-URL}}/mensagens",
+					"raw": "{{API_URL}}/mensagens",
 					"host": [
-						"{{API-URL}}"
+						"{{API_URL}}"
 					],
 					"path": [
 						"mensagens"
@@ -82,9 +82,9 @@
 					}
 				},
 				"url": {
-					"raw": "{{API-URL}}/mensagens/3",
+					"raw": "{{API_URL}}/mensagens/3",
 					"host": [
-						"{{API-URL}}"
+						"{{API_URL}}"
 					],
 					"path": [
 						"mensagens",
@@ -100,9 +100,9 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "{{API-URL}}/mensagens/1",
+					"raw": "{{API_URL}}/mensagens/1",
 					"host": [
-						"{{API-URL}}"
+						"{{API_URL}}"
 					],
 					"path": [
 						"mensagens",
